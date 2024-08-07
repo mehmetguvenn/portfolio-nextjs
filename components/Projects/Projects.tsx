@@ -55,7 +55,7 @@ const projectsData = [
     },
     {
       id: 6,
-      title: "Twitch Clone",
+      title: "Nextjs Portfolio",
       description: "Project 5 description",
       image: "/projects/8.png",
       tag: ["All", "FullStack"],
