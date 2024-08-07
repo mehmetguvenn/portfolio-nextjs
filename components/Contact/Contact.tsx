@@ -103,7 +103,7 @@ const Contact = () => {
                         </div>
 
                         <div className="mb-6 text-white">
-                            <Label>Subject</Label>
+                            <Label>Message</Label>
                             <Textarea name="message" className="bg-mycolor-600 mt-2" placeholder="Type your message here." required />
                         </div>
 
